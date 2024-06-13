@@ -1,1 +1,3 @@
-Hosting Jayly's addons here.
+# Jayly's Add-Ons
+
+This repository stores JaylyMC's add-ons.
