@@ -27,7 +27,7 @@ jobs:
     - name: GitHub downloads 
       run: |
         pip install -r requirements.txt
-        py action.py
+        python action.py
      
     # Commits files to repository
     - name: Commit changes
